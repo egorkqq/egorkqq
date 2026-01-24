@@ -2,7 +2,7 @@
 <div id="user-content-toc" align="center">
   <ul align="center" style="list-style: none;">
     <summary>
-      <h1>Hi 👋, I'm Egor</h1>
+      <h1>Hi 👋, I'm Egor</h1> <br />
       <h2 align="center">Exploring web to solve real-world problems.</h2>
     </summary>
   </ul>
